@@ -7,7 +7,7 @@ This is a beginner-friendly object detection project built using **PyTorch** and
 
 ## 📂 Dataset
 
-- Sourced from: [Kaggle](https://www.kaggle.com/](https://www.kaggle.com/datasets/kkhandekar/object-detection-sample-images/code))  
+- Sourced from: [Kaggle](https://www.kaggle.com/](https://www.kaggle.com/datasets/kkhandekar/object-detection-sample-images/code)  
 - The dataset contains images with **no bounding box labels**.
 - The model is trained/inferred to detect **any object** that differs from the background (no class-specific labels).
 
